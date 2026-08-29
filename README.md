@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**Asma-Elhadiedy/Asma-Elhadiedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Asma El-Hadiedy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Software Engineer | Backend Developer | Open-Source Contributor**
+
+I am a backend-focused Software Engineer experienced in designing and building scalable, secure, and high-performance **.NET Core** systems.
+
+---
+
+## Technical Skills
+
+**Languages & Frameworks:**
+C#, ASP.NET Core
+
+**Databases:**
+SQL Server, PostgreSQL, MySQL
+
+**DevOps & Tools:**
+Git, Postman
+
+**Core Concepts:**
+Clean Architecture, SOLID, Design Patterns, OOP, Algorithms
+
+---
+
+## Contact
+
+* **LinkedIn:** [linkedin.com/in/asmaelhadiedy](https://www.linkedin.com/in/asmaelhadiedy/)
+* **Email:** [asmaelhadiedy@gmail.com](mailto:asmaelhadiedy@gmail.com)
+
+---
