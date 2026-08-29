@@ -11,7 +11,7 @@ I am a backend-focused Software Engineer experienced in designing and building s
 ## Technical Skills
 
 **Languages & Frameworks:**
-C#, ASP.NET Core
+C#, ASP.NET Core, Entity Framework Core
 
 **Databases:**
 SQL Server, PostgreSQL, MySQL
